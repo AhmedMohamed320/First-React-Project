@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fcb3a181.css",
+    "main.js": "/static/js/main.74727eb2.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Car1.svg": "/static/media/Car1.1fa169abdbeb2b7c2d1f5b233b6fd222.svg",
+    "static/media/Car2.svg": "/static/media/Car2.f50e6f5fdfa3519e7f7c5c81d2066525.svg",
+    "static/media/Car9.svg": "/static/media/Car9.47bd1535f2fcfd62a507532113c9b84e.svg",
+    "static/media/services-background-image.svg": "/static/media/services-background-image.c45d87f8337061e8970a.svg",
+    "static/media/Background-header.svg": "/static/media/Background-header.eb346a75f48d13e036e6.svg",
+    "static/media/about us image.svg": "/static/media/about us image.f00aac791d28167fcf9fa21494e028c7.svg",
+    "static/media/Car8.svg": "/static/media/Car8.2e42f0983c474b3ca637fff28b471a8f.svg",
+    "static/media/Car5.svg": "/static/media/Car5.332d334f201674ff0212b9295592745a.svg",
+    "static/media/Car3.svg": "/static/media/Car3.8555d7da4c69348de2b23584570cf3f8.svg",
+    "static/media/car-1.svg": "/static/media/car-1.1372aaa039e909674bda65f36927a4c7.svg",
+    "static/media/Car4.svg": "/static/media/Car4.4527069f74db06832c839364b51e3c83.svg",
+    "static/media/Car6.svg": "/static/media/Car6.d0505016759f31f86bebf6bba28cc059.svg",
+    "static/media/Car7.svg": "/static/media/Car7.cdc0786c46c3a778ea6cd2de8a967c86.svg",
+    "static/media/subaru.svg": "/static/media/subaru.92895320fac80f4611004d791ef338b5.svg",
+    "static/media/Volvo.svg": "/static/media/Volvo.915b8e9f1312a30ad841213e3507a4e0.svg",
+    "static/media/BMW.svg": "/static/media/BMW.933feafb9c591721899bf7b35ce0372a.svg",
+    "static/media/services-2.svg": "/static/media/services-2.03639fb015b305ccafd97b6fa210fd96.svg",
+    "static/media/Nissan.svg": "/static/media/Nissan.0ec4ad772c21b93034198c3fb297062f.svg",
+    "static/media/Suzuki.svg": "/static/media/Suzuki.c96ad897aa574d979ca90a587055e71b.svg",
+    "static/media/Toyota.svg": "/static/media/Toyota.c37e918a3792ecde3f50bdcd9abc8299.svg",
+    "static/media/Mercedes.svg": "/static/media/Mercedes.c8c9803e2bed6e3fc452bd588a94d425.svg",
+    "index.html": "/index.html",
+    "static/media/Star.svg": "/static/media/Star.8896a37f61fbee27aea48a7887b6872d.svg",
+    "static/media/services-1.svg": "/static/media/services-1.ac44dc3a6a597367c818626f498af494.svg",
+    "static/media/services-3.svg": "/static/media/services-3.3d97c894cd50bb5df5a4f15840e713eb.svg",
+    "static/media/brand_1.svg": "/static/media/brand_1.4fc68dd96ea3ae0cd8c6680001f87574.svg",
+    "main.fcb3a181.css.map": "/static/css/main.fcb3a181.css.map",
+    "main.74727eb2.js.map": "/static/js/main.74727eb2.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcb3a181.css",
+    "static/js/main.74727eb2.js"
+  ]
+}
