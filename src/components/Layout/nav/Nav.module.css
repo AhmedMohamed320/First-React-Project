@@ -1,0 +1,111 @@
+nav{
+    position:fixed;
+    z-index: 10000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2rem 5rem;
+    font-size: 2rem;
+    color: var(--color-white);
+    left: 50%;
+    transform: translateX(-50%);
+    transition:0.5s ease-out;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+}
+
+.logo{
+    font-size: 3.5rem;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.mainNav{
+    display: flex;
+    align-items: center;
+    gap: 2.5rem;
+}
+
+li{
+    list-style-type: none;
+    cursor: pointer;
+}
+
+li a{
+    text-decoration: none;
+    color: var(--color-white);
+    padding: 1rem;
+    border-radius: 1rem;
+    text-transform: capitalize;
+}
+
+li a:hover{
+    background-color: var(--color-red);
+}
+
+.cart,.smallNav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 4rem;
+    cursor: pointer;
+    position: relative;
+    color: var(--color-white);
+}
+.smallNav{
+    display: none;
+}
+
+.smallNav .sideNav{
+    width: 30rem;
+    padding: 5rem 0;
+    border-radius: 0.5rem;
+    position: absolute;
+    background-color: #12273dfa;
+    top: 100%;
+    right: -50rem;
+    transition: 0.3s;
+}
+
+.smallNav:hover .sideNav{
+    right: 0;
+}
+
+.sideNav ul li{
+    padding: 2rem 2rem ;
+    font-size: 2.2rem;
+}
+
+.sideNav ul li:hover{
+    background-color: var(--color-red);
+}
+
+
+.cart span{
+    width: 3rem;
+    height: 3rem;
+    position: absolute;
+    z-index: 101;
+    top: -1.5rem;
+    right: -1.5rem;
+    font-size: 1.6rem;
+    font-weight: 500;
+    background-color: #F8D7A4;
+    color: black;
+    padding: 1rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 0.5rem;
+}
+
+@media (max-width:850px) {
+    .smallNav{
+        display: flex;
+    }
+
+    .mainNav>li:not(:nth-of-type(6),:nth-of-type(7)){
+        display: none;
+    }
+    
+}
